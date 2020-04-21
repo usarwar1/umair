@@ -108,8 +108,8 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://usarwar1.github.io/umair/"
     - label: "Resume"
-      icon: "fab fa-fw fa-address-book"
-      url: /assets/images/resume.pdf
+      icon: "fab fa-fw fa-link"
+      url: "/assets/images/resume.pdf"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/umair.sarwar95"
