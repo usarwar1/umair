@@ -111,7 +111,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/umair.sarwar95"
     - label: "Resume"
-      icon: "fab fa-fw fa-book"
+      icon: "fab fa-fw fa-link"
       url: "/assets/images/resume.pdf"
     
     
