@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Home"
+    url: https://usarwar1.github.io/umair/
+  - title: "Research"
+    url: https://usarwar1.github.io/umair/Research/
+  - title: "Publications"
+    url: https://usarwar1.github.io/umair/publications/
+  - title: "Resume"
+    url: "/assets/images/resume.pdf"
   # - title: "Sitemap"
   #   url: /sitemap/
