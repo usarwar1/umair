@@ -10,9 +10,9 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -61,7 +61,7 @@ algolia:
   powered_by             : # true (default), false
 google:
   search_engine_id       : umair_sarwar_purdue # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
+  instant_search         : true # false (default), true
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Umair Sarwar"
   avatar           : "/assets/images/umair.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD candidate in Mechanical Engineering "
+  bio              : "PhD candidate doing interdisciplinary work in design "
   location         : "Indiana,USA"
   email            : "usarwar@purdue.edu"
   links:
@@ -129,7 +129,7 @@ footer:
       url: "https://www.linkedin.com/in/usarwar"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url:"https://www.facebook.com/umair.sarwar95"
+      url: "https://www.facebook.com/umair.sarwar95"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/usarwar1"
