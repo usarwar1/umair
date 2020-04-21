@@ -25,7 +25,7 @@ url                      : "https://usarwar1.github.io/umair/" #the base hostnam
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "usarwar1/umair" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/purdue_logo.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -97,25 +97,23 @@ analytics:
 author:
   name             : "Umair Sarwar"
   avatar           : "/assets/images/umair.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD candidate doing interdisciplinary work in design "
+  bio              : "PhD Candidate in Mehcanical Engineering "
   location         : "Indiana,USA"
   email            : "usarwar@purdue.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:usarwar@purdue.edu
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/usarwar"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://usarwar1.github.io/umair/"
+    - label: "Resume"
+      icon: "fab fa-fw fa-resume"
+      url: "https://github.com/usarwar1"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/umair.sarwar95"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/usarwar1"
+    
     
 
 # Site Footer
