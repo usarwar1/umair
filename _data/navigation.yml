@@ -8,5 +8,5 @@ main:
     url: https://usarwar1.github.io/umair/publications/
   - title: "Resume"
     url: "/assets/images/resume.pdf"
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Skills"
+    url: https://usarwar1.github.io/umair/skills/
