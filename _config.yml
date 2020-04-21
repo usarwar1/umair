@@ -10,25 +10,25 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+#theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Umair Sarwar Portfolio"
+title                    : "Umair Sarwar"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Umair Sarwar"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Personal Webpage and Portfolio"
+url                      : "https://usarwar1.github.io/umair/" #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "usarwar1/umair" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/REIDHead.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
-words_per_minute         : 250
+words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -61,7 +61,7 @@ algolia:
   powered_by             : # true (default), false
 google:
   search_engine_id       : umair_sarwar_purdue # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
+  instant_search         : true # false (default), true
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -97,47 +97,43 @@ analytics:
 author:
   name             : "Umair Sarwar"
   avatar           : "/assets/images/umair.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate|Mechanical Engineer|Biomedical Imaging"
+  bio              : "PhD candidate doing interdisciplinary work in design "
   location         : "Indiana,USA"
-  email            : 
+  email            : "usarwar@purdue.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:usarwar@purdue.edu
+    - label: "linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/usarwar"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://your-website.com"
+      url: "https://usarwar1.github.io/umair/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/umair.sarwar95"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/usarwar1"
-    - label: "linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/usarwar"
+    
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:usarwar@purdue.edu
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/usarwar"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/umair.sarwar95"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/usarwar1"
+
 
 
 # Reading Files
