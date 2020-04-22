@@ -15,7 +15,7 @@ classes: wide
   <head>
     <meta charset="utf-8">
 
-  <title>Skills & Courses</title>
+  <title>Portfolio</title>
   <meta name="description" content="projects">
   <meta name="Umair Sarwar" content="projects">
 
