@@ -242,7 +242,7 @@ tag_archive:
 #   layouts:
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
-#   permalinks:
+#permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
