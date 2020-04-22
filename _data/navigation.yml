@@ -3,10 +3,10 @@ main:
   - title: "Home"
     url: /
   - title: "Research"
-    url: https://usarwar1.github.io/umair/Research/
+    url: /research/
   - title: "Publications"
-    url: https://usarwar1.github.io/umair/publications/
+    url: /pub/
   - title: "Resume"
     url: "/assets/images/resume.pdf"
   - title: "Skills"
-    url: https://usarwar1.github.io/umair/skills/
+    url: /skills/
