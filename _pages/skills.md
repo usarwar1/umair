@@ -1,7 +1,7 @@
 ---
 title:  "Skills"
 layout: single
-permalink:/skills/
+permalink: /skills/
 author_profile: true
 classes: wide
 ---
@@ -63,9 +63,8 @@ classes: wide
 <h2>Certifications</h2>
 <ul>
   <li>Lean Six Sigma Green Belt Certification(ID:<a href:"https://www.credential.net/4e11739e-4722-4900-808d-94641a62a412>13549203</a></li>
+    <li>CPR(Issued by Red Cross)</li>
   </ul>
-
  
-
 </body>
 </html>
