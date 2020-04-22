@@ -1,7 +1,8 @@
 ---
-layout: home
 author_profile: true
+layout: home
 ---
+
 <!doctype html>
 
 <html lang="en">
