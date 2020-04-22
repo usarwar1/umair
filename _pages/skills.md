@@ -1,9 +1,9 @@
 ---
-title:  "Skills and Coursework"
+title:  "Skills"
 layout: single
-permalink: /skills/
+permalink: /pub/
 author_profile: true
-classes:wide
+classes: wide
 ---
 <!--
   Minimal Mistakes Jekyll Theme 4.16.6 by Michael Rose
