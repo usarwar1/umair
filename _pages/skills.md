@@ -1,7 +1,7 @@
 ---
 title:  "Skills"
 layout: single
-permalink: /pub/
+permalink: /skills/
 author_profile: true
 classes: wide
 ---
