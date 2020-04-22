@@ -17,7 +17,6 @@ classes: wide
 
 <body>    
       
-<h2>About Me</h2>
 <div class="page__inner-wrap">
       
 <section class="page__content" itemprop="text">
