@@ -108,7 +108,7 @@ body {
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: 0.7em;
   }
 
   /* paragraph indents */
@@ -185,10 +185,10 @@ body {
 
     .wrapper {
       padding-left: 1em;
-      padding-right: 1em;
+      padding-right: -.4em;
 
       @include breakpoint($x-large) {
-        max-width: $x-large;
+        max-width: $max-width;
       }
     }
 
