@@ -1,5 +1,5 @@
 ---
-title:  "Skilla"
+title:  "Skills and Coursework"
 layout: single
 permalink: /skills/
 author_profile: true
