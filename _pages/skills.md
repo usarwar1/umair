@@ -1,7 +1,7 @@
 ---
 title:  "Skills"
 layout: single
-permalink: /skills/
+permalink:/skills/
 author_profile: true
 classes: wide
 ---
@@ -16,7 +16,7 @@ classes: wide
     <meta charset="utf-8">
 
   <title>Skills & Courses</title>
-  <meta name="description" content="publication list">
+  <meta name="description" content="skills">
   <meta name="Umair Sarwar" content="skillset">
 
 </head>
@@ -61,6 +61,11 @@ classes: wide
 </ul>
 
 <h2>Certifications</h2>
+<ul>
+  <li>Lean Six Sigma Green Belt Certification(ID:<a href:"https://www.credential.net/4e11739e-4722-4900-808d-94641a62a412>13549203</a></li>
+  </ul>
+
+ 
 
 </body>
 </html>
