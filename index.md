@@ -17,7 +17,6 @@ classes: wide
 
 <body>    
       
-    </div>
 <h2>About Me</h2>
 <p class="text-justify" > I am an aspiring Mechanical Engineering, currently working towards my PhD at <a href="https://engineering.purdue.edu/reidlab/">REID Lab</a> at <a href="https://www.purdue.edu/">Purdue Universirty</a> in West Lafayette Indiana. I have completed my Bachelors of Science in Mech E. and Masters of Science in Mech E. from Purdue University as well. </p
 <p class="text-justify" > Having completed my Masters and one semester of my PhD., I have experience in defining and executing problem solving skills. Unlike many other PhD's, I am accusomted to working at a fast pace environment due to the various components of interdiscipinary work. I have a wide range of experience working in industry as a Product Design as well as Manufaturing Intern. My research has scoped a wide variety of fields , ranging from Engineering Educartion, Fluid Mechanics to the current field of product design and automation safety using bioimaging techniques.</p>
