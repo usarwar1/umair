@@ -48,6 +48,3 @@ classes: wide
   </ul>
 
  
-</body>
-</html>
-
