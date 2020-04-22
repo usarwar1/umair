@@ -8,5 +8,7 @@ main:
     url: /pub/
   - title: "Resume"
     url: "/assets/images/resume.pdf"
+  - title: "Portfolio"
+    url: /pro/
   - title: "Skills"
     url: /skills/
