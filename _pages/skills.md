@@ -38,6 +38,13 @@ classes: wide
   <li>Python</li>
   <li>JavaScript</li>
   </ul>
+  <h3>BioImaging Devices</h3>
+  <ul>
+  <li>fNIR's(Functional Near Infrared Spectroscopy)</li>
+  <li>EEG(Electroencephalogram)</li>
+  <li>Eye Tracker</li>
+  </ul>
+  
   <h3>Machining</h3>
   <ul>
   <li>Rapid Prototyping</li>
