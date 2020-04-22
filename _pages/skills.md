@@ -54,6 +54,7 @@ classes: wide
   <li>Product and Process Design</li>
   <li>Analysis and Design of Robotic Manipulators</li>
   <li>Manufacturing and Processing Engineeing</li>
+  <li>Decision Making in Engineering</li>
   <li>Machine Learning</li>
   <li>Educational Software Design</li>
   <li>Statistical Quality Control</li>
