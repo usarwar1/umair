@@ -1,12 +1,18 @@
+---
+title:  "Skilla"
+layout: single
+permalink: /skills/
+author_profile: true
+---
 <!doctype html>
 
 <html lang="en">
 <head>
   <meta charset="utf-8">
 
-  <title>The HTML5 Herald</title>
-  <meta name="description" content="The HTML5 Herald">
-  <meta name="author" content="SitePoint">
+  <title>Skilla</title>
+  <meta name="skill set" content="Skills">
+  <meta name="Umair Sarwar" content="Skills and Qualifications">
 
   <link rel="stylesheet" href="css/styles.css?v=1.0">
 
